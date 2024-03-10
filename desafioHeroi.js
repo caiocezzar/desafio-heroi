@@ -21,6 +21,6 @@ class hero {
 }
 
 let typeHero = new hero("Angus", 50, "Ninja");
-console.log(typeHero)
+/* console.log(typeHero) */
 typeHero.attack()
 
